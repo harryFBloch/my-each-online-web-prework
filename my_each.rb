@@ -9,5 +9,4 @@ def my_each(array)
   else
     puts "Empty array"
   end
-  
 end
