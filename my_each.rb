@@ -1,3 +1,8 @@
-def my_each # put argument(s) here
-  # code here
+def my_each(array)
+  if !array.empty?
+    
+  else
+    puts "Empty array"
+  end
+  
 end
